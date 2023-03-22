@@ -1,15 +1,3 @@
-#quote-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+#app-container {
+  background-color: burlywood;
 }
-
-#quote-box {
-  width: 50%;
-  height: auto;
-  border: 3px solid #73AD21;
-  padding: 10px;
-  background-color: #ccc;
-}
-
