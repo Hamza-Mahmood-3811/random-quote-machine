@@ -11,4 +11,25 @@
   border: 3px solid #73AD21;
   padding: 10px;
   background-color: #ccc;
+  border-radius: 20px;
+}
+
+#text-box {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#clickables {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#new-quote {
+  padding: 10px;
+  border-radius: 5px;
 }
